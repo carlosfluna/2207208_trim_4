@@ -7,6 +7,9 @@ Este es un repositorio de prueba para realizar la conexion con github y visual s
 
 
 git config --global user.email "danielariasgiraldo133@gmail.com"
+
+
+
 git config --global user.name "DanielEstebanGiraldo"
 
 
